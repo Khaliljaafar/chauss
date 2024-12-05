@@ -3,13 +3,13 @@
         {
             "id": 2001,
             "color": "green",
-            "image": "require('@/assets/images/socks_green.jpg')",
+            "image": "https://image.noelshack.com/fichiers/2024/49/4/1733419029-socks-green.jpg",
             "quantity":"50"
         },
         {
             "id": 2002,
             "color": "blue",
-            "image": "require('@/assets/images/socks_blue.jpg')",
+            "image": "https://image.noelshack.com/fichiers/2024/49/4/1733419026-socks-blue.jpg",
             "quantity":"0"
         }
     ]
